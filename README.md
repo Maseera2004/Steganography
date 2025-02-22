@@ -56,9 +56,4 @@ You can install OpenCV using pip if you don't have it:
 
 After entering the correct passcode, the message "This is a secret message" will be displayed.
 
-## License:
-This project is licensed under the MIT License.
 
----
-
-Feel free to modify and expand this script according to your needs!
